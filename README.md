@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img src='https://github.com/Josimar-Victoria/react-pizza-website-v1/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2002-02-41.png?raw=true' alt='img'/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
